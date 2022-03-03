@@ -1,0 +1,111 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.aboutUs
+/*{
+    margin: 10px 10px;
+    height: 97vh;
+    background-color:dimgray;
+    background-position: center;
+}
+
+.h1*/
+{
+    font-family: sans-serif;
+    text-align:justify;
+    background-color:dimgray;
+    min-height: 100vh;
+}
+
+.pic1
+{
+    
+    margin: 10px 10px 10px;
+}
+
+h1
+{
+    top: 100px;
+    padding-top: 100px;
+}
+p
+{
+    line-height: 30px;
+    width: 75%;
+    text-align: justify;
+
+}
+
+.vimi
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container
+{
+    position: relative;
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(260px,1fr));
+    grid-gap: 0 40px;
+}
+
+.container .box
+{
+    position: relative;
+    height: 400px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+/*.container .box:before
+{
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: white;
+    transform: skew(2deg,2deg);
+    z-index: -1;
+    
+}*/
+
+.content
+{
+    position: relative;
+    padding: 20px;
+}
+
+.box .content h2
+{
+    position: absolute;
+    top: -10px;
+    right: 20px;
+    /*font-size: 10em;*/
+    color: rgba(53, 214, 202, 0.89);
+    transition: 0.5s;    
+}
+
+.box:hover .content h2
+{
+    top: -90px;
+}
+
+.box .content p
+{
+    color: azure;
+    font-size: 16px;
+}

@@ -1,0 +1,25 @@
+.elementor-160 .elementor-element.elementor-element-4b63bfc{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-160 .elementor-element.elementor-element-247bd32 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-160 .elementor-element.elementor-element-794d019 > .elementor-container{min-height:400px;}.elementor-160 .elementor-element.elementor-element-794d019 > .elementor-container:after{content:"";min-height:inherit;}.elementor-160 .elementor-element.elementor-element-794d019{background-color:rgba(255,255,255,0.62);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-160 .elementor-element.elementor-element-794d019 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-160 .elementor-element.elementor-element-f26de23.elementor-column .elementor-column-wrap{align-items:center;}.elementor-160 .elementor-element.elementor-element-8364d85.elementor-column .elementor-column-wrap{align-items:center;}.elementor-160 .elementor-element.elementor-element-2c7dea0 .elementor-heading-title{font-family:"Calibri", Sans-serif;font-weight:300;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}@media(max-width:767px){.elementor-160 .elementor-element.elementor-element-794d019 > .elementor-container{min-height:40px;}.elementor-160 .elementor-element.elementor-element-794d019 > .elementor-container:after{content:"";min-height:inherit;}.elementor-160 .elementor-element.elementor-element-794d019{margin-top:-40px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-160 .elementor-element.elementor-element-f26de23{width:30%;}.elementor-160 .elementor-element.elementor-element-7ab014f{text-align:right;}.elementor-160 .elementor-element.elementor-element-7ab014f .elementor-image img{width:45%;max-width:45%;}.elementor-160 .elementor-element.elementor-element-8364d85{width:70%;}.elementor-160 .elementor-element.elementor-element-2c7dea0 .elementor-heading-title{font-size:15px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: normal;
+	src: url('http://knkindia.com/wp-content/uploads/2018/11/Calibri.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Calibri';
+	font-style: normal;
+	font-weight: bold;
+	src: url('http://knkindia.com/wp-content/uploads/2018/11/CALIBRIB.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Calibri';
+	font-style: italic;
+	font-weight: normal;
+	src: url('http://knkindia.com/wp-content/uploads/2018/11/CALIBRII.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Calibri';
+	font-style: italic;
+	font-weight: bold;
+	src: url('http://knkindia.com/wp-content/uploads/2018/11/CALIBRIZ.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
